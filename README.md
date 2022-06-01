@@ -3,3 +3,23 @@
  - Before starting, run `LOG IN.exe` to enter your VK.com account
  - Turn off 2-Step Verification before signing in (`You can turn it back on after logging in.`)
  - You can change the dl path by changing the `dl_path` parameter in `config.json` next to the `fivvy.exe` file
+ - If you break something in `config.json` file - Delete it and run `LOG IN.exe`
+
+# Installation method
+ - Unzip the contents of the archive to a location convenient for you
+
+
+# What's already available
+ - Listening from the application. 
+ - Listening to `Recommendations` and `Popular`. 
+ - Track Search
+ - Download tracks (`with tags`)
+
+
+# What is planned for the future
+ - Support for your playlists from `VK`
+ - Possibly like/dislike tracks (`unlikely`)
+
+
+## If you find any bugs. `Section Issues for you`
+
