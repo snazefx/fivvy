@@ -20,6 +20,6 @@
  - Support for your playlists from `VK`
  - Possibly like/dislike tracks (`unlikely`)
 
-
+## Some screenshots | https://imgur.com/a/cYjNpii
 ## If you find any bugs. `Section Issues for you`
 
