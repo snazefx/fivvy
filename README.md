@@ -20,7 +20,6 @@
 
 
 # What is planned for the future
- - Support for your playlists from `VK`
  - Possibly like/dislike tracks (`unlikely`)
 
 ## Some screenshots | https://imgur.com/a/cYjNpii
