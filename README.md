@@ -15,6 +15,8 @@
  - Listening to `Recommendations` and `Popular`. 
  - Track Search
  - Download tracks (`with tags`)
+ - Playlists
+ - Artist cards from the `Search` and `Recommendations` menus
 
 
 # What is planned for the future
