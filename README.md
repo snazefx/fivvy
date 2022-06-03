@@ -22,6 +22,6 @@
 # What is planned for the future
  - Possibly like/dislike tracks (`unlikely`)
 
-## Some screenshots | https://imgur.com/a/cYjNpii
+## Some screenshots | https://imgur.com/a/z1ZMGv9
 ## If you find any bugs. `Section Issues for you`
 
