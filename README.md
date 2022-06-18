@@ -11,7 +11,6 @@
 
 # What's already available
  - Listening from `Recommendations` `Search` `Playlists` and `Artist Card`
- - Listening to `Recommendations` and `Popular`. 
  - Track Search
  - Download tracks (`with tags`)
  - Playlists
