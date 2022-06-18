@@ -1,7 +1,7 @@
 # INFO
  - I have nothing to do with VK or Mail.Ru Group
  - Turn off 2-Step Verification before signing in (`You can turn it back on after logging in.`)
- - If you break something in `config.json` file - Delete it and run `LOG IN.exe`
+ - If you break something in `config.json` file - Delete it and restart
  - To play, click on the track cover (`it will blur`) 
  - The download button is on the player. Downloading the `active track`
 
