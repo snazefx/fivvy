@@ -14,6 +14,7 @@
  - Track Search
  - Download tracks (`with tags`)
  - Playlists
+ - Artist Card
  - Artist cards from the `Search` and `Recommendations` menus
 
 
