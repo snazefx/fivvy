@@ -10,7 +10,7 @@
 
 
 # What's already available
- - Listening from the application. 
+ - Listening from `Recommendations` `Search` `Playlists` and `Artist Card`
  - Listening to `Recommendations` and `Popular`. 
  - Track Search
  - Download tracks (`with tags`)
